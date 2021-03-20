@@ -1,9 +1,8 @@
 # KedaiPBO3
 Tugas Kelompok 3 PBO
 
-import java.util.Scanner;
-public class kedaipbo3 {
-
+    import java.util.Scanner;
+    public class kedaipbo3 {
     public static void main(String[] args) {
         System.out.println("===============================");
         System.out.println("           KEDAI PBO3          ");
@@ -174,7 +173,6 @@ public class kedaipbo3 {
                     lagi1 = ulang.nextLine().toUpperCase();
                 }
                 break;
+            }
         }
     }
-    
-}
